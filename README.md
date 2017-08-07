@@ -28,4 +28,7 @@ create .gitignore && ignore node_modules
 heroku login > heroku create
 
 ## Next >
+git add . > git commit -am "Init project" > git push > git push heroku master
+
+## Next >
 create readme
