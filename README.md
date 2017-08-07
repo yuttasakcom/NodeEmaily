@@ -19,10 +19,10 @@ custom package.json
 ```
 
 ## Next >
-create index.js & create http handler && test
+create index.js > create http handler > test
 
 ## Next >
-create .gitignore && ignore node_modules
+create .gitignore > ignore node_modules
 
 ## Next >
 heroku login > heroku create
