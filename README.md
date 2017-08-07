@@ -30,5 +30,8 @@ heroku login > heroku create
 ## Next >
 git add . > git commit -am "Init project" > git push > git push heroku master
 
+## Next >
+heroku open
+
 ## End
 create readme
