@@ -9,3 +9,6 @@ module.exports = {
   cookieKey: 'YOUR COOKIE KEY'
 }
 ```
+
+## Heroku config:set
+> heroku config:set NPM_CONFIG_PRODUCTION=false
