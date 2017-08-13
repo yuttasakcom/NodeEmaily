@@ -9,6 +9,7 @@ module.exports = {
   cookieKey: 'YOUR COOKIE KEY'
 }
 ```
-
+## Heroku add remote
+> heroku git:remote -a falling-wind-1624
 ## Heroku config:set
 > heroku config:set NPM_CONFIG_PRODUCTION=false
